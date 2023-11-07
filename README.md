@@ -16,7 +16,7 @@ This package allow you to get music files from Android & iOS with following prop
 
 `$ yarn add react-native-get-music-files`
 or 
-`$ yarn add https://github.com/cinder92/react-native-get-music-files.git`
+`$ yarn add https://github.com/vijaygojiya/react-native-get-music-files.git`
 
 #### iOS
 
